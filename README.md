@@ -14,7 +14,7 @@ This project is a simple menu application built using ReactJS. It allows users t
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/simple-menu-project.git`
+1. Clone the repository: `git clone https://github.com/Elish-Ab/simple-menu-project.git`
 2. Navigate to the project directory: `cd simple-menu-project`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -26,5 +26,14 @@ To run this project locally, follow these steps:
 - JavaScript
 - HTML/CSS
 
-## Folder Structure
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+## Contact
+
+If you have any questions or feedback, feel free to contact me at elishabu28@gmail.com.
+
+Relax, don't forget to drink coffe.
+Happy coding!
 
